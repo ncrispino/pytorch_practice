@@ -1,1 +1,1 @@
-Associated exercises and projects from [Deep Learning with PyTorch](https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/) by Luca Pietro Giovanni Antiga, Thomas Viehmann, Eli Stevens
+Associated, code, exercises and projects from [Deep Learning with PyTorch](https://learning.oreilly.com/library/view/deep-learning-with/9781617295263/) by Luca Pietro Giovanni Antiga, Thomas Viehmann, Eli Stevens
